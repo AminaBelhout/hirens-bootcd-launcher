@@ -35,4 +35,6 @@ Extract it using 7-Zip or mount the ISO to access the files, then copy them into
 3. Navigate to the folder and launch:
    ```powershell
    .\RunHirenTools.ps1
+![powershell](https://github.com/user-attachments/assets/9bb5af5a-ac6a-473d-b692-93fec001e6cc)
+
 
